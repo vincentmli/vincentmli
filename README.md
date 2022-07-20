@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cilium VXLAN tunnel integration with F5 BIG-IP
+- 🔭 Cilium OSS contribution https://isovalent.com/blog/post/cilium-release-112/#vtep-support
 - 🌱 I’m currently learning everything about eBPF
 - 👯 I’m looking to collaborate on anyone who works on eBPF
 - 🤔 I’m looking for help with anyone who knows about eBPF
