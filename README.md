@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning everything about eBPF
 - 👯 I’m looking to collaborate on anyone who works on eBPF
 - 😄 My youtube channel: https://www.youtube.com/c/LinuxMonkinCloud
-- ⚡ Fun fact: I am a Linux user since 1999
+- ⚡ Fun fact: I am a self-taught computer engineer and a Linux user since 1999
