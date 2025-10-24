@@ -4,4 +4,4 @@
 - 🌱 Develop Open Source Firewall [BPFire](https://github.com/vincentmli/BPFire) with Linux eBPF application（eBPF开源防火墙操作系统开发维护）
 - 🌱 Develop Open Source Firewall [LoongFire](https://github.com/vincentmli/loongfire) with Linux eBPF application for LoongArch CPU
 - 😄 My youtube channel: [BPFireOS](https://www.youtube.com/@BPFireOS) （油管技术频道）
-- 😄 Fun fact: I am a Linux user and an incompetent Windows user since 1998（早期Linux用户,能力缺失的Windows用户）
+- 😄 Fun fact: I am a Linux user since 1998
